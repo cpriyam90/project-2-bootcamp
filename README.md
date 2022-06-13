@@ -11,7 +11,8 @@ This application helps a user plan their monthly expense better thereby helping 
 * [Collaborators](#Collaborators)
 * [Applications-Used](#Applications-Used)
 * [Credits/Citations](#Credits/Citations)
-* [Screenshots](#Screenshots)
+* [Heroku Link](#Heroku-Link)
+* [Demo](#Demo)
 
 
 ## Usage
@@ -28,6 +29,7 @@ On the home page, the user is prompted to enter their email address and password
 ## Collaborators
 * Franklin Tsung
 * Priyam Chirawawala
+* For our github process, we did have one person be in charge of the pushes to avoid merge conflicts
 
 ## Applications-Used
 * MySQL
@@ -46,8 +48,10 @@ On the home page, the user is prompted to enter their email address and password
 * Handlebars Documentation
 * Module Lessons 11-14
 
+## Heroku-Link
+* **[Click here for deployed Heroku Link](https://desolate-caverns-01190.herokuapp.com/)**
 
-## Screenshots
-See below screenshots
-![alt="Screenshot of Landing Page"](./public/assets/images/screenshot.png)
-![alt="Screenshot of App Page"](./public/assets/images/screenshot1.png)
+## Demo
+See below demo
+![alt="Demo"](./public/assets/images/budgeter.mp4)
+

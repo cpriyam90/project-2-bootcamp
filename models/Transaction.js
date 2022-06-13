@@ -47,6 +47,6 @@ Transaction.init(
      },
  },
  {
-     
+    sequelize  
  }
 )
