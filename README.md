@@ -12,7 +12,7 @@ This application helps a user plan their monthly expense better thereby helping 
 * [Applications-Used](#Applications-Used)
 * [Credits/Citations](#Credits/Citations)
 * [Heroku Link](#Heroku-Link)
-* [Demo](#Demo)
+* [Screenshots](#Screenshots)
 
 
 ## Usage
@@ -53,5 +53,6 @@ On the home page, the user is prompted to enter their email address and password
 
 ## Demo
 See below demo
-![alt="Demo"](./public/assets/images/budgeter.mp4)
-
+![alt="Screenshot of Landing Page"](./public/assets/images/screenshot.png)
+![alt="Screenshot of App Page"](./public/assets/images/screenshot1.png)
+![alt="Screenshot of App Page"](./public/assets/images/screenshot2.png)
